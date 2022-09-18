@@ -67,7 +67,7 @@ hr {
   border: none;
   cursor: pointer;
   width: 15%;
-  opacity: 0.9;
+  opacity: 0.7;
 }
 .main{
 background:url("https://assets.entrepreneur.com/content/3x2/2000/20141031174145-15-free-online-learning-sites.jpeg");
